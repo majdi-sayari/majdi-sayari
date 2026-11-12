@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Majdi Sayari!
+💻 Full-Stack Developer | Web Developer
+I'm a passionate Full-Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I love exploring new technologies, solving problems, and turning creative ideas into real-world projects.
 
-<!--
-**majdi-sayari/majdi-sayari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Passionate about Full-Stack Web Development.
+🌱 Always learning and improving my programming skills.
+🎨 Interested in modern UI/UX and web technologies.
+⚡ Love building interactive and responsive applications.
+🎯 Focused on writing clean, efficient, and maintainable code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools: Git, GitHub, VS Code, Postman
